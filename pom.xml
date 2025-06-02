@@ -5,8 +5,6 @@
     <parent>
         111
         222  2223 asf devdev  111  3333  444  rebase
-        222  2223 asf devdev  111  3333
-        222  2223 asf devdev  111  3333  444
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.4.3</version>
